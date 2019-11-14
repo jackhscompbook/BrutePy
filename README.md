@@ -9,7 +9,6 @@ Examples of redesign:
   3. customizing password requirements to decrease run-time.
   4. use multi threading to generate a password list and save to a file and read from the file and request
   5. add a utility that tests all the passwords from a certian length down (ie. len 6, len 5, len 4, ...)
-  6. anything else you come up with, please message me at a_personlol#2828 on discord.
   
 Anyway, I should include instructions, right?
 Bsically, you should specify the ID or class of the target feild in the form as idFeilds(userID=ID, passID=ID)
